@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm WhiteP1ay  
 
-<!--
-**WhiteP1ay/WhiteP1ay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Fullstack TypeScript Developer** | **Tech Enthusiast** | **Lifelong Learner**  
 
-Here are some ideas to get you started:
+[![Website](https://img.shields.io/badge/🌐_whitemeta-FF7139?style=for-the-badge)](https://whitemeta.cn)  
+[![Bilibili](https://img.shields.io/badge/Bilibili-FF69B4?style=for-the-badge&logo=bilibili)](https://space.bilibili.com/107889531)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+
+💻 **8+ years** of full-stack development (TypeScript, React, Node.js)  
+⚡ **Passionate** about elegant code & well-designed systems  
+🎸 **Guitar player** | 🍏 **Apple fan** | 🏍️ **Motorcycle rider**  
+☸️ **Buddhism learner** | 📚 **Continuous self-improvement**  
+
+## 🔧 Tech Stack  
+
+**Frontend**: React, Next.js, Vue.js, TypeScript, TailwindCSS  
+**Backend**: Node.js, Express, NestJS  
+**Database**: MySQL, MongoDB, Redis  
+**DevOps**: Docker, CI/CD  
+
+## 📬 Let's Connect  
+
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parkhaocer@gmail.com)  
